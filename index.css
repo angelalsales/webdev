@@ -1,0 +1,24 @@
+.hello {
+
+    text-align: center;
+    color: red
+}
+
+
+.image {
+    width:50px;
+}
+
+.wide {
+    width: 80px;
+    height: 80ox;
+    background: green;
+    margin: 10px;
+  
+}
+
+table, th, td {
+    border: 1px solid blue;
+}
+
+
